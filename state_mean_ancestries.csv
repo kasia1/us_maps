@@ -1,0 +1,154 @@
+state,cohort, African , Native American , European ,Size
+Alabama,African American, 0.81 , 0.01 , 0.17 ,*
+Alaska,African American,,, --- ,-
+Arizona,African American,,, --- ,-
+Arkansas,African American, 0.80 , 0.01 , 0.18 ,*
+California,African American, 0.73 , 0.01 , 0.24 ,***
+Colorado,African American, 0.72 , 0.01 , 0.25 ,*
+Connecticut,African American, 0.77 , 0.01 , 0.21 ,*
+DC,African American, 0.70 , 0.01 , 0.28 ,**
+Delaware,African American,,, --- ,-
+Florida,African American, 0.81 , 0.01 , 0.17 ,*
+Georgia,African American, 0.81 , 0.01 , 0.17 ,**
+Hawaii,African American,,, --- ,-
+Idaho,African American,,, --- ,-
+Illinois,African American, 0.74 , 0.01 , 0.24 ,***
+Indiana,African American, 0.73 , 0.01 , 0.25 ,*
+Iowa,African American,,, --- ,-
+Kansas,African American, 0.69 , 0.01 , 0.29 ,*
+Kentucky,African American, 0.69 , 0.00 , 0.29 ,*
+Louisiana,African American, 0.75 , 0.01 , 0.23 ,**
+Maine,African American,,, --- ,-
+Maryland,African American, 0.72 , 0.01 , 0.26 ,*
+Massachusetts,African American, 0.73 , 0.01 , 0.25 ,*
+Michigan,African American, 0.75 , 0.01 , 0.23 ,**
+Minnesota,African American,,, --- ,-
+Mississippi,African American, 0.80 , 0.01 , 0.18 ,*
+Missouri,African American, 0.76 , 0.01 , 0.22 ,**
+Montana,African American,,, --- ,-
+Nebraska,African American,,, --- ,-
+Nevada,African American,,, --- ,-
+New Hampshire,African American,,, --- ,-
+New Jersey,African American, 0.72 , 0.01 , 0.25 ,**
+New Mexico,African American,,, --- ,-
+New York,African American, 0.75 , 0.01 , 0.22 ,***
+North Carolina,African American, 0.74 , 0.01 , 0.23 ,**
+North Dakota,African American,,, --- ,-
+Ohio,African American, 0.73 , 0.01 , 0.24 ,**
+Oklahoma,African American, 0.73 , 0.01 , 0.25 ,*
+Oregon,African American,,, --- ,-
+Pennsylvania,African American, 0.72 , 0.01 , 0.26 ,***
+Rhode Island,African American,,, --- ,-
+South Carolina,African American, 0.83 , 0.01 , 0.15 ,*
+South Dakota,African American,,, --- ,-
+Tennessee,African American, 0.77 , 0.01 , 0.21 ,**
+Texas,African American, 0.78 , 0.01 , 0.20 ,***
+Utah,African American,,, --- ,-
+Vermont,African American,,, --- ,-
+Virginia,African American, 0.74 , 0.01 , 0.23 ,**
+Washington,African American, 0.66 , 0.01 , 0.30 ,*
+West Virginia,African American, 0.64 , 0.00 , 0.34 ,*
+Wisconsin,African American, 0.71 , 0.01 , 0.27 ,*
+Wyoming,African American,,, --- ,-
+Alabama,Latinos,,, --- ,-
+Alaska,Latinos,,, --- ,-
+Arizona,Latinos, 0.04 , 0.18 , 0.69 ,**
+Arkansas,Latinos, 0.05 , 0.10 , 0.80 ,*
+California,Latinos, 0.04 , 0.19 , 0.65 ,***
+Colorado,Latinos, 0.04 , 0.18 , 0.67 ,**
+Connecticut,Latinos, 0.10 , 0.09 , 0.75 ,*
+DC,Latinos, 0.14 , 0.09 , 0.64 ,*
+Delaware,Latinos,,, --- ,-
+Florida,Latinos, 0.06 , 0.07 , 0.80 ,***
+Georgia,Latinos, 0.16 , 0.08 , 0.71 ,*
+Hawaii,Latinos, 0.04 , 0.05 , 0.57 ,*
+Idaho,Latinos,,, --- ,-
+Illinois,Latinos, 0.08 , 0.19 , 0.63 ,***
+Indiana,Latinos, 0.05 , 0.08 , 0.83 ,*
+Iowa,Latinos, 0.06 , 0.05 , 0.79 ,*
+Kansas,Latinos, 0.04 , 0.14 , 0.75 ,*
+Kentucky,Latinos, 0.04 , 0.04 , 0.90 ,*
+Louisiana,Latinos, 0.22 , 0.04 , 0.70 ,*
+Maine,Latinos,,, --- ,-
+Maryland,Latinos, 0.10 , 0.07 , 0.76 ,*
+Massachusetts,Latinos, 0.11 , 0.10 , 0.73 ,*
+Michigan,Latinos, 0.15 , 0.09 , 0.69 ,*
+Minnesota,Latinos, 0.12 , 0.10 , 0.70 ,*
+Mississippi,Latinos,,, --- ,-
+Missouri,Latinos, 0.14 , 0.08 , 0.76 ,*
+Montana,Latinos,,, --- ,-
+Nebraska,Latinos,,, --- ,-
+Nevada,Latinos,,, --- ,-
+New Hampshire,Latinos,,, --- ,-
+New Jersey,Latinos, 0.09 , 0.10 , 0.73 ,**
+New Mexico,Latinos, 0.03 , 0.20 , 0.67 ,**
+New York,Latinos, 0.15 , 0.08 , 0.69 ,***
+North Carolina,Latinos, 0.17 , 0.05 , 0.75 ,*
+North Dakota,Latinos,,, --- ,-
+Ohio,Latinos, 0.11 , 0.07 , 0.78 ,*
+Oklahoma,Latinos, 0.08 , 0.11 , 0.72 ,*
+Oregon,Latinos, 0.03 , 0.11 , 0.74 ,*
+Pennsylvania,Latinos, 0.15 , 0.08 , 0.72 ,**
+Rhode Island,Latinos,,, --- ,-
+South Carolina,Latinos,,, --- ,-
+South Dakota,Latinos,,, --- ,-
+Tennessee,Latinos, 0.02 , 0.06 , 0.89 ,*
+Texas,Latinos, 0.05 , 0.21 , 0.64 ,***
+Utah,Latinos, 0.01 , 0.13 , 0.78 ,*
+Vermont,Latinos,,, --- ,-
+Virginia,Latinos, 0.13 , 0.10 , 0.71 ,*
+Washington,Latinos, 0.07 , 0.09 , 0.76 ,*
+West Virginia,Latinos,,, --- ,-
+Wisconsin,Latinos, 0.11 , 0.14 , 0.68 ,*
+Wyoming,Latinos,,, --- ,-
+Alabama,European Americans, 0.01 , 0.00 , 0.99 ,***
+Alaska,European Americans, 0.00 , 0.00 , 0.99 ,***
+Arizona,European Americans, 0.00 , 0.00 , 0.99 ,***
+Arkansas,European Americans, 0.00 , 0.00 , 0.99 ,***
+California,European Americans, 0.00 , 0.00 , 0.98 ,***
+Colorado,European Americans, 0.00 , 0.00 , 0.99 ,***
+Connecticut,European Americans, 0.00 , -   , 0.99 ,***
+DC,European Americans, 0.00 , 0.00 , 0.99 ,***
+Delaware,European Americans, 0.00 , 0.00 , 1.00 ,***
+Florida,European Americans, 0.00 , 0.00 , 0.99 ,***
+Georgia,European Americans, 0.00 , 0.00 , 0.99 ,***
+Hawaii,European Americans, 0.00 , 0.00 , 0.98 ,***
+Idaho,European Americans, 0.00 , 0.00 , 0.99 ,***
+Illinois,European Americans, 0.00 , 0.00 , 0.99 ,***
+Indiana,European Americans, 0.00 , 0.00 , 0.99 ,***
+Iowa,European Americans, 0.00 , 0.00 , 1.00 ,***
+Kansas,European Americans, 0.00 , 0.00 , 1.00 ,***
+Kentucky,European Americans, 0.00 , 0.00 , 0.99 ,***
+Louisiana,European Americans, 0.01 , 0.00 , 0.99 ,***
+Maine,European Americans, 0.00 , 0.00 , 1.00 ,***
+Maryland,European Americans, 0.00 , 0.00 , 0.99 ,***
+Massachusetts,European Americans, 0.00 , 0.00 , 0.98 ,***
+Michigan,European Americans, 0.00 , 0.00 , 0.99 ,***
+Minnesota,European Americans, -   , 0.00 , 0.99 ,***
+Mississippi,European Americans, 0.00 , 0.00 , 0.99 ,***
+Missouri,European Americans, 0.00 , 0.00 , 0.99 ,***
+Montana,European Americans, 0.00 , 0.00 , 0.99 ,***
+Nebraska,European Americans, 0.00 , 0.00 , 0.99 ,***
+Nevada,European Americans, 0.00 , 0.00 , 0.98 ,***
+New Hampshire,European Americans, 0.00 , -   , 1.00 ,***
+New Jersey,European Americans, 0.00 , -   , 0.98 ,***
+New Mexico,European Americans, 0.00 , 0.00 , 0.99 ,***
+New York,European Americans, 0.00 , 0.00 , 0.98 ,***
+North Carolina,European Americans, 0.00 , 0.00 , 0.99 ,***
+North Dakota,European Americans, 0.00 , 0.00 , 0.99 ,***
+Ohio,European Americans, 0.00 , -   , 0.99 ,***
+Oklahoma,European Americans, 0.00 , 0.00 , 0.99 ,***
+Oregon,European Americans, 0.00 , 0.00 , 0.99 ,***
+Pennsylvania,European Americans, 0.00 , -   , 0.99 ,***
+Rhode Island,European Americans, 0.00 , 0.00 , 0.99 ,***
+South Carolina,European Americans, 0.01 , 0.00 , 0.99 ,***
+South Dakota,European Americans, -   , -   , 1.00 ,***
+Tennessee,European Americans, 0.00 , 0.00 , 0.99 ,***
+Texas,European Americans, 0.00 , 0.00 , 0.99 ,***
+Utah,European Americans, 0.00 , 0.00 , 0.99 ,***
+Vermont,European Americans, 0.00 , 0.00 , 0.99 ,***
+Virginia,European Americans, 0.00 , 0.00 , 0.99 ,***
+Washington,European Americans, 0.00 , 0.00 , 0.99 ,***
+West Virginia,European Americans, 0.00 , 0.00 , 0.99 ,***
+Wisconsin,European Americans, 0.00 , 0.00 , 0.99 ,***
+Wyoming,European Americans, 0.00 , 0.00 , 1.00 ,***
